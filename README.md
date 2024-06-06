@@ -6,7 +6,8 @@ Monitoring passenger posture and heart rate is crucial for enhancing automotive 
 
 - **Arduino_Code/**
 - **CNN_Code/**
-- **CNN_weights/**
+- **CNN_Weights/**
+- **Preprocessing_Algorithm/**
 - **Dataset/**
 
 Ground truth data was collected using a pulse oximeter and compared with the processed accelerometer data to measure deviations, ensuring accurate heart rate monitoring.
@@ -15,7 +16,8 @@ Ground truth data was collected using a pulse oximeter and compared with the pro
 
 1. **Arduino Code**: Upload the code from the `Arduino_Code/` directory to your Arduino board to start data collection.
 2. **CNN Code**: Use the scripts in the `CNN_Code/` directory to train the CNN model. You can also use the pretrained model from the `CNN_pretrained_model/` directory.
-3. **Dataset**: The dataset in the `Dataset/` directory can be used for training and evaluating the CNN model.
+3.**Preprocessing Algorithm: Contains the notebook for the preprocessing algorithm
+4. **Dataset**: The dataset in the `Dataset/` directory can be used for training and evaluating the CNN model.
 
 ## Conclusion
 

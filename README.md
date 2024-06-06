@@ -21,6 +21,13 @@ Ground truth data was collected using a pulse oximeter and compared with the pro
 
 The development of this system marks a significant step forward in addressing issues related to driver posture monitoring, driver comfort, preventing fatigue, and enhancing overall vehicle safety. This system can be utilized for improving driver comfort, preventing fatigue, and enhancing overall vehicle safety, making it a valuable tool in modern automotive environments.
 
+## Authors
+
+- Yash Gupta
+- Yogesh Goyal
+
 ---
+
+
 
 Feel free to open an issue or contact us if you have any questions or need further assistance.

@@ -6,7 +6,7 @@ Monitoring passenger posture and heart rate is crucial for enhancing automotive 
 
 - **Arduino_Code/**
 - **CNN_Code/**
-- **CNN_pretrained_model/**
+- **CNN_Weights/**
 - **Dataset/**
 
 Ground truth data was collected using a pulse oximeter and compared with the processed accelerometer data to measure deviations, ensuring accurate heart rate monitoring.

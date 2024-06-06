@@ -4,10 +4,10 @@ This repository contains the Arduino code, CNN code, pretrained CNN model, and t
 
 ## Repository Structure
 
-Arduino_Code/
-CNN_Code/
-CNN_pretrained_model/
-Dataset/
+- **Arduino_Code/**
+- **CNN_Code/**
+- **CNN_pretrained_model/**
+- **Dataset/**
 
 Ground truth data was collected using a pulse oximeter and compared with the processed accelerometer data to measure deviations, ensuring accurate heart rate monitoring.
 

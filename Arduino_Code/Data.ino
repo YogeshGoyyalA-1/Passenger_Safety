@@ -44,6 +44,7 @@ void loop() {
     // Print a new line to separate data sets
     Serial.println("");
   }
+   Serial.println("");
 
   // Delay to achieve 50 Hz sampling rate for the accelerometer
   delay(20);

@@ -28,11 +28,10 @@ Install the required Arduino libraries:
 2. Go to Sketch -> Include Library -> Manage Libraries.
 3. Search and install: "Adafruit ADXL345" and "Adafruit Unified Sensor".
 
+```
 ## Conclusion
 
 The development of this system marks a significant step forward in addressing issues related to driver posture monitoring, driver comfort, preventing fatigue, and enhancing overall vehicle safety. This system can be utilized for improving driver comfort, preventing fatigue, and enhancing overall vehicle safety, making it a valuable tool in modern automotive environments.
-
-```
 ## Authors
 
 - Yash Gupta

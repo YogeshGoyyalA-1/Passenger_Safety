@@ -15,14 +15,24 @@ Ground truth data was collected using a pulse oximeter and compared with the pro
 ## How to Use
 
 1. **Arduino Code**: Upload the code from the `Arduino_Code/` directory to your Arduino board to start data collection.
-2. **CNN Code**: Use the scripts in the `CNN_Code/` directory to train the CNN model. You can also use the pretrained model from the `CNN_pretrained_model/` directory.
+2. **CNN Code**: Use the scripts in the `CNN_Code/` directory to train the CNN model. You can also use the pretrained model from the `CNN_Code/` directory.
 3. **Preprocessing Algorithm**: Contains the notebook in the `Preprocessing_Algorithm/` directory for the preprocessing algorithm.
 4. **Dataset**: The dataset in the `Dataset/` directory can be used for training and evaluating the CNN model.
+
+## Installation
+
+Install the required Arduino libraries:
+
+```
+1. Open Arduino IDE.
+2. Go to Sketch -> Include Library -> Manage Libraries.
+3. Search and install: "Adafruit ADXL345" and "Adafruit Unified Sensor".
 
 ## Conclusion
 
 The development of this system marks a significant step forward in addressing issues related to driver posture monitoring, driver comfort, preventing fatigue, and enhancing overall vehicle safety. This system can be utilized for improving driver comfort, preventing fatigue, and enhancing overall vehicle safety, making it a valuable tool in modern automotive environments.
 
+```
 ## Authors
 
 - Yash Gupta
